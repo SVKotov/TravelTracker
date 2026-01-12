@@ -1,0 +1,18 @@
+traveltracker/
+│
+├── main.py              # Точка входа
+├── models.py            # Классы Trip, Expense, Destination
+├── storage.py           # Работа с БД (SQLite/PostgreSQL)
+├── gui.py               # Графический интерфейс на Tkinter
+├── analysis.py          # Анализ и визуализация расходов
+├── utils.py             # Вспомогательные функции, валидация
+├── api_client.py        # Работа с внешними API (курсы валют, погода)
+├── tests.py             # Модульные тесты
+│
+├── data/                # Папка для файлов данных
+│   ├── traveltracker.db
+│   └── export/
+│
+├── requirements.txt     # Зависимости
+├── README.md           # Документация
+└── .gitignore          # Исключённые файлы для Git
