@@ -37,3 +37,9 @@ TravelTracker - это настольное приложение для план
 ### Установка зависимостей
 ```bash
 pip install -r requirements.txt
+
+<img width="2560" height="1080" alt="2026-01-12_18-26-10" src="https://github.com/user-attachments/assets/3a2a51f1-fddf-493a-aed5-a1ae378a2d6c" />
+<img width="2560" height="1080" alt="2026-01-12_18-26-04" src="https://github.com/user-attachments/assets/34243327-8a4d-4e4f-aa51-709d8446d7d2" />
+<img width="2560" height="1080" alt="2026-01-12_18-25-59" src="https://github.com/user-attachments/assets/0885ef09-8414-41ea-b896-f9238c9a02bb" />
+<img width="2560" height="1080" alt="2026-01-12_18-25-42" src="https://github.com/user-attachments/assets/0d251e7f-00cc-4d59-9f80-1c94c4a2d112" />
+
